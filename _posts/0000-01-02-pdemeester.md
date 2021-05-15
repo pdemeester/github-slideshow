@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+a^2 + b^2 = c^2
 Use the left arrow to go back!
